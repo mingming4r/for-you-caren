@@ -7,14 +7,15 @@ teksHai = "Hai, ada surat buat kamu nih";
 konten = [
   {
     gambar: "NamaFileGambar/Foto",
-    ucapan: "UcapanKalian",
+    ucapan: "Haii Bunny",
   },
     {
-        gambar: "
+        gambar: "NamaFileGambar/Foto",
+        ucapan: "Aku tau kamu hebat",
 ];
 
 musik = "musik.mp3";
-nomorWhatsapp = "6285xxx";
+nomorWhatsapp = "6281228010210";
 
 /*=========================*/
 DekaTutorial(konten, musik, nomorWhatsapp);
